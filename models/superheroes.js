@@ -13,6 +13,9 @@ const superheroes = Schema(
     origin_description: {
       type: String,
     },
+    superpowers: {
+      type: String,
+    },
     catch_phrase: {
       type: String,
     },
